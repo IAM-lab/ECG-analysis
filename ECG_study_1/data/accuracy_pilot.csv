@@ -1,0 +1,342 @@
+participant,stimuli,accuracy
+P2F,antlat STEMI,0
+P5M,antlat STEMI,1
+P6F,antlat STEMI,1
+P9M,antlat STEMI,1
+P10F,antlat STEMI,0
+P11F,antlat STEMI,1
+P13M,antlat STEMI,0
+P16F,antlat STEMI,1
+P17F,antlat STEMI,0
+P19F,antlat STEMI,0
+P20F,antlat STEMI,0
+P21M,antlat STEMI,0
+P23F,antlat STEMI,0
+P24M,antlat STEMI,0
+P25F,antlat STEMI,1
+P26F,antlat STEMI,0
+P27F,antlat STEMI,1
+P28F,antlat STEMI,1
+P29F,antlat STEMI,1
+P30M,antlat STEMI,1
+P31F,antlat STEMI,1
+P32M,antlat STEMI,0
+P33F,antlat STEMI,1
+P34M,antlat STEMI,1
+P36F,antlat STEMI,1
+P37F,antlat STEMI,0
+P38F,antlat STEMI,0
+P39F,antlat STEMI,1
+P40F,antlat STEMI,0
+P41F,antlat STEMI,0
+P42F,antlat STEMI,1
+P2F,HK,0
+P5M,HK,0
+P6F,HK,0
+P9M,HK,1
+P10F,HK,0
+P11F,HK,0
+P13M,HK,0
+P16F,HK,1
+P17F,HK,0
+P19F,HK,0
+P20F,HK,0
+P21M,HK,0
+P23F,HK,0
+P24M,HK,0
+P25F,HK,0
+P26F,HK,0
+P27F,HK,0
+P28F,HK,0
+P29F,HK,0
+P30M,HK,0
+P31F,HK,0
+P32M,HK,0
+P33F,HK,0
+P34M,HK,0
+P36F,HK,0
+P37F,HK,0
+P38F,HK,0
+P39F,HK,0
+P40F,HK,0
+P41F,HK,0
+P42F,HK,0
+P2F,VF,1
+P5M,VF,1
+P6F,VF,0
+P9M,VF,0
+P10F,VF,0
+P11F,VF,0
+P13M,VF,0
+P16F,VF,0
+P17F,VF,0
+P19F,VF,1
+P20F,VF,0
+P21M,VF,0
+P23F,VF,0
+P24M,VF,0
+P25F,VF,0
+P26F,VF,0
+P27F,VF,1
+P28F,VF,0
+P29F,VF,0
+P30M,VF,0
+P31F,VF,0
+P32M,VF,0
+P33F,VF,0
+P34M,VF,0
+P36F,VF,0
+P37F,VF,0
+P38F,VF,0
+P39F,VF,0
+P40F,VF,0
+P41F,VF,0
+P42F,VF,1
+P2F,WPW,0
+P5M,WPW,0
+P6F,WPW,1
+P9M,WPW,0
+P10F,WPW,0
+P11F,WPW,1
+P13M,WPW,0
+P16F,WPW,1
+P17F,WPW,1
+P19F,WPW,0
+P20F,WPW,1
+P21M,WPW,0
+P23F,WPW,0
+P24M,WPW,0
+P25F,WPW,0
+P26F,WPW,1
+P27F,WPW,0
+P28F,WPW,0
+P29F,WPW,0
+P30M,WPW,1
+P31F,WPW,1
+P32M,WPW,0
+P33F,WPW,1
+P34M,WPW,1
+P36F,WPW,1
+P37F,WPW,0
+P38F,WPW,0
+P39F,WPW,0
+P40F,WPW,0
+P41F,WPW,1
+P42F,WPW,0
+P2F,LBBB,0
+P5M,LBBB,1
+P6F,LBBB,1
+P9M,LBBB,1
+P10F,LBBB,1
+P11F,LBBB,0
+P13M,LBBB,0
+P16F,LBBB,0
+P17F,LBBB,1
+P19F,LBBB,1
+P20F,LBBB,1
+P21M,LBBB,1
+P23F,LBBB,1
+P24M,LBBB,1
+P25F,LBBB,1
+P26F,LBBB,1
+P27F,LBBB,0
+P28F,LBBB,1
+P29F,LBBB,1
+P30M,LBBB,1
+P31F,LBBB,1
+P32M,LBBB,1
+P33F,LBBB,1
+P34M,LBBB,1
+P36F,LBBB,1
+P37F,LBBB,0
+P38F,LBBB,1
+P39F,LBBB,0
+P40F,LBBB,0
+P41F,LBBB,1
+P42F,LBBB,1
+P2F,NSR,0
+P5M,NSR,0
+P6F,NSR,0
+P9M,NSR,1
+P10F,NSR,1
+P11F,NSR,1
+P13M,NSR,1
+P16F,NSR,1
+P17F,NSR,1
+P19F,NSR,1
+P20F,NSR,1
+P21M,NSR,1
+P23F,NSR,1
+P24M,NSR,1
+P25F,NSR,1
+P26F,NSR,0
+P27F,NSR,1
+P28F,NSR,1
+P29F,NSR,1
+P30M,NSR,1
+P31F,NSR,0
+P32M,NSR,1
+P33F,NSR,1
+P34M,NSR,1
+P36F,NSR,1
+P37F,NSR,0
+P38F,NSR,1
+P39F,NSR,0
+P40F,NSR,1
+P41F,NSR,0
+P42F,NSR,1
+P2F,Sinus Tachycardia,0
+P5M,Sinus Tachycardia,1
+P6F,Sinus Tachycardia,1
+P9M,Sinus Tachycardia,0
+P10F,Sinus Tachycardia,0
+P11F,Sinus Tachycardia,0
+P13M,Sinus Tachycardia,0
+P16F,Sinus Tachycardia,0
+P17F,Sinus Tachycardia,0
+P19F,Sinus Tachycardia,1
+P20F,Sinus Tachycardia,1
+P21M,Sinus Tachycardia,0
+P23F,Sinus Tachycardia,0
+P24M,Sinus Tachycardia,1
+P25F,Sinus Tachycardia,0
+P26F,Sinus Tachycardia,1
+P27F,Sinus Tachycardia,0
+P28F,Sinus Tachycardia,1
+P29F,Sinus Tachycardia,0
+P30M,Sinus Tachycardia,1
+P31F,Sinus Tachycardia,1
+P32M,Sinus Tachycardia,1
+P33F,Sinus Tachycardia,0
+P34M,Sinus Tachycardia,1
+P36F,Sinus Tachycardia,0
+P37F,Sinus Tachycardia,0
+P38F,Sinus Tachycardia,1
+P39F,Sinus Tachycardia,0
+P40F,Sinus Tachycardia,0
+P41F,Sinus Tachycardia,0
+P42F,Sinus Tachycardia,0
+P2F,SVT,0
+P5M,SVT,1
+P6F,SVT,0
+P9M,SVT,1
+P10F,SVT,0
+P11F,SVT,0
+P13M,SVT,1
+P16F,SVT,0
+P17F,SVT,0
+P19F,SVT,1
+P20F,SVT,0
+P21M,SVT,0
+P23F,SVT,0
+P24M,SVT,0
+P25F,SVT,0
+P26F,SVT,1
+P27F,SVT,0
+P28F,SVT,0
+P29F,SVT,0
+P30M,SVT,1
+P31F,SVT,0
+P32M,SVT,0
+P33F,SVT,0
+P34M,SVT,0
+P36F,SVT,1
+P37F,SVT,1
+P38F,SVT,0
+P39F,SVT,0
+P40F,SVT,0
+P41F,SVT,1
+P42F,SVT,1
+P2F,Ventricular paced rhythm,0
+P5M,Ventricular paced rhythm,0
+P6F,Ventricular paced rhythm,0
+P9M,Ventricular paced rhythm,1
+P10F,Ventricular paced rhythm,0
+P11F,Ventricular paced rhythm,1
+P13M,Ventricular paced rhythm,0
+P16F,Ventricular paced rhythm,1
+P17F,Ventricular paced rhythm,0
+P19F,Ventricular paced rhythm,0
+P20F,Ventricular paced rhythm,1
+P21M,Ventricular paced rhythm,0
+P23F,Ventricular paced rhythm,0
+P24M,Ventricular paced rhythm,0
+P25F,Ventricular paced rhythm,1
+P26F,Ventricular paced rhythm,0
+P27F,Ventricular paced rhythm,0
+P28F,Ventricular paced rhythm,1
+P29F,Ventricular paced rhythm,1
+P30M,Ventricular paced rhythm,0
+P31F,Ventricular paced rhythm,0
+P32M,Ventricular paced rhythm,0
+P33F,Ventricular paced rhythm,0
+P34M,Ventricular paced rhythm,1
+P36F,Ventricular paced rhythm,1
+P37F,Ventricular paced rhythm,0
+P38F,Ventricular paced rhythm,0
+P39F,Ventricular paced rhythm,0
+P40F,Ventricular paced rhythm,0
+P41F,Ventricular paced rhythm,0
+P42F,Ventricular paced rhythm,0
+P2F,VT,1
+P5M,VT,1
+P6F,VT,1
+P9M,VT,1
+P10F,VT,1
+P11F,VT,1
+P13M,VT,0
+P16F,VT,1
+P17F,VT,1
+P19F,VT,1
+P20F,VT,1
+P21M,VT,1
+P23F,VT,1
+P24M,VT,1
+P25F,VT,1
+P26F,VT,0
+P27F,VT,0
+P28F,VT,1
+P29F,VT,1
+P30M,VT,1
+P31F,VT,1
+P32M,VT,1
+P33F,VT,1
+P34M,VT,1
+P36F,VT,1
+P37F,VT,1
+P38F,VT,1
+P39F,VT,0
+P40F,VT,1
+P41F,VT,1
+P42F,VT,1
+P2F,Atrial Flutter,0
+P5M,Atrial Flutter,1
+P6F,Atrial Flutter,0
+P9M,Atrial Flutter,0
+P10F,Atrial Flutter,1
+P11F,Atrial Flutter,0
+P13M,Atrial Flutter,1
+P16F,Atrial Flutter,1
+P17F,Atrial Flutter,1
+P19F,Atrial Flutter,1
+P20F,Atrial Flutter,1
+P21M,Atrial Flutter,1
+P23F,Atrial Flutter,1
+P24M,Atrial Flutter,1
+P25F,Atrial Flutter,1
+P26F,Atrial Flutter,1
+P27F,Atrial Flutter,1
+P28F,Atrial Flutter,1
+P29F,Atrial Flutter,1
+P30M,Atrial Flutter,1
+P31F,Atrial Flutter,1
+P32M,Atrial Flutter,1
+P33F,Atrial Flutter,1
+P34M,Atrial Flutter,1
+P36F,Atrial Flutter,1
+P37F,Atrial Flutter,0
+P38F,Atrial Flutter,1
+P39F,Atrial Flutter,1
+P40F,Atrial Flutter,1
+P41F,Atrial Flutter,1
+P42F,Atrial Flutter,1
